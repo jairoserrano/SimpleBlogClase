@@ -1,0 +1,1 @@
+/Users/jairo/Webs/SimpleBlogClase/app/views/news/show.blade.php
